@@ -1,0 +1,15 @@
+signature
+(?i)\bint\b
+(?i)\busername\b
+(?i)\bpassword\b
+\S*200x1\S*
+(?i)\bLIMIT\b
+(?i)\badMin\b
+"(?i)\bSELECT\b\S*['\""%]"
+(?i)\btAbLe\b
+(?i)\bSLEEP\b
+"(?i)\bUNION\b\S*['\""%]"
+(?i)\busERs\b
+/\*.*?\*/
+\S*By\S*
+"(?i)\bOR\b\S*['\""\d]"

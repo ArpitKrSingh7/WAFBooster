@@ -1,0 +1,4 @@
+Dataset Split,Evaluation Metric,Total Samples,Baseline WAF,Boosted WAF,Improvement (Δ)
+Held-Out Malicious (test.csv),TRR (True Rejection Rate),93,91/93 (97.85%),93/93 (100.00%),+2.15%
+Held-Out Benign (test.csv),TAR (True Acceptance Rate),300,300/300 (100.00%),300/300 (100.00%),+0.00%
+Novel Generated Attacks (GRU),TRR (True Rejection Rate),94,48/94 (51.06%),93/94 (98.94%),+47.87%

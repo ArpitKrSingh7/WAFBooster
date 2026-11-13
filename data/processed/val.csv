@@ -1,0 +1,393 @@
+payload,source,waf_label
+colliti.shale@ropadegolf.com.dd,benign,0
+Torreblascopedro,benign,0
+3,benign,0
+Espelt Bone,benign,0
+ehninger,benign,0
+Renedo Sotorr�o,benign,0
+"' union all select null,null,null--",malicious,1
+"1; SElEct username,password froM USeRs",malicious,1
+'/**/uNION/**/sElEct/**/nULL--,malicious,1
+Sant Aniol de Finestres,benign,0
+Vaciar carrito,benign,0
+Doz,benign,0
+on,benign,0
+2,benign,0
+basile@europop.by,benign,0
+Berm�dez Delvalle,benign,0
+' OR 2>1;--,malicious,1
+31270,benign,0
+registro,benign,0
+qwerty,benign,0
+24566,benign,0
+' OR 1<=1 LIMIT 1--,malicious,1
+85233754D,benign,0
+49167,benign,0
+58783501D,benign,0
+' OR 'a'='a,malicious,1
+registro,benign,0
+"Cardenal Mendoza S/N, 7?H",benign,0
+"' uNioN sELeCT NULl,nUll--",malicious,1
+stokoski,benign,0
+"Castillo De Segura De Leon, 56, 10?C",benign,0
+Trafelati Zurera,benign,0
+"'/**/	And	1=COnVert(int,	(sELECt	@@version))--",malicious,1
+"Calle Congreso 7, 11?C",benign,0
+Pasar por caja,benign,0
+2,benign,0
+A�adir al carrito,benign,0
+' oR 1=1--,malicious,1
+Caca Ihnen,benign,0
+escobedo,benign,0
+1'	aND	'1'='2,malicious,1
+Agullana,benign,0
+' Or Sleep(5)--,malicious,1
+' OR 1=1#,malicious,1
+Segovia,benign,0
+Vaciar carrito,benign,0
+A�adir al carrito,benign,0
+Garciaz,benign,0
+2,benign,0
+'/**/%20OR%20'a'='a,malicious,1
+'	GROUP	BY	columnnames	having	3-2=1--,malicious,1
+'	OR	SLEEP(5)--,malicious,1
+�a�a,benign,0
+entrar,benign,0
+jia,benign,0
+06673981W,benign,0
+'%20OR%20'a'='a,malicious,1
+' OR 2>1 /*,malicious,1
+registro,benign,0
+Registrar,benign,0
+T3�ue31,benign,0
+1' AND SLEEP(5) AND '1'='1,malicious,1
+fennell,benign,0
+ber269U31a,benign,0
+kinnie,benign,0
+Entrar,benign,0
+wakefiel7,benign,0
+21,benign,0
+cresta-da,benign,0
+"1;	SELECT	username,password	FROM	users",malicious,1
+diccico_pastor@a�o09.io,benign,0
+"'%20UNION%20SELECT%20NULL,NULL--",malicious,1
+' OR 'x'='x'--,malicious,1
+66753049B,benign,0
+Moll Aybar,benign,0
+"'/**/ union all select null,null,null--",malicious,1
+'/**/OR/**/'1'='1,malicious,1
+Rinaldo,benign,0
+4148689549974834,benign,0
+entrar,benign,0
+Registrar,benign,0
+Xaviera,benign,0
+Macedonia 48 ,benign,0
+' /**/GROUP BY columnnames having 1=1--,malicious,1
+79506626L,benign,0
+levitin,benign,0
+Granada,benign,0
+39,benign,0
+bidart-halton@monnal.tel,benign,0
+9590,benign,0
+15635,benign,0
+1'/**/AnD/**/'1'='2,malicious,1
+natiuk,benign,0
+EnSaCad$oRa,benign,0
+' Or sleEP(6-1)--,malicious,1
+registro,benign,0
+8912004350396189,benign,0
+100,benign,0
+durovic,benign,0
+BisuntA,benign,0
+"Cami�o Do Monte 147, 10?H",benign,0
+dud,benign,0
+09390,benign,0
+Credenciales incorrectas,benign,0
+Vaciar carrito,benign,0
+' Or 'a'='a'--,malicious,1
+88253687L,benign,0
+' HAVING 2>1--,malicious,1
+Confirmar,benign,0
+Pasar por caja,benign,0
+Angullo Acosta,benign,0
+registro,benign,0
+Limpias,benign,0
+87,benign,0
+'	/**/Or	'1'='1,malicious,1
+�vila,benign,0
+Credenciales incorrectas,benign,0
+1,benign,0
+insertar,benign,0
+griffith_chesbro@psykoterapeut.sn,benign,0
+ADmIN' Or 1=1--,malicious,1
+cU�KeRa,benign,0
+' Or exiSts(sElEct 1 FrOM UseRs wHERe 1=1)--,malicious,1
+registro,benign,0
+08zaril0O,benign,0
+Registrar,benign,0
+borsodi-heintje@unidadesdeventilacion.tg,benign,0
+"Calle Huesca, 136, ",benign,0
+42214,benign,0
+Registrar,benign,0
+rintel,benign,0
+A�adir al carrito,benign,0
+' UNION SELECT NULL--,malicious,1
+85,benign,0
+1'%20ORDER%20BY%202-1--,malicious,1
+Pasar por caja,benign,0
+' /**/OR SLEEP(5)--,malicious,1
+"'%20UNION%20SELECT%20username,password%20FROM%20users--",malicious,1
+Madrid,benign,0
+30736152X,benign,0
+kApPA,benign,0
+6320,benign,0
+Las Palmas,benign,0
+"'	OR	EXISTS(SELECT	username,password	FROM	users)--",malicious,1
+Vino Rioja,benign,0
+Queso Manchego,benign,0
+morishige-tombes@quierocortinas.do,benign,0
+Geldres Pittaluga,benign,0
+asimismo,benign,0
+Registrar,benign,0
+ironside9@truecatucasa.bi,benign,0
+4702,benign,0
+5076820691273276,benign,0
+Entrar,benign,0
+8731298131217571,benign,0
+1; SeleCT * fROm USeRs,malicious,0
+'	OR	3-2=1	LIMIT	1--,malicious,1
+Vaciar carrito,benign,0
+A�adir al carrito,benign,0
+Confirmar,benign,0
+vadosa,benign,0
+2938010074996541,benign,0
+registro,benign,0
+Luena,benign,0
+Credenciales incorrectas,benign,0
+'	OR	SLEEP(6-1)--,malicious,1
+"Calle Sanchez Guerrero, 63, 10?H",benign,0
+registro,benign,0
+"C/ De La Villa Claudia 44, 4B",benign,0
+aerolito,benign,0
+2,benign,0
+Girona,benign,0
+Vaciar carrito,benign,0
+Aldemar,benign,0
+Torralba del R�o,benign,0
+"' aNd SUbsTrINg(username,0x1,0x1)='a",malicious,1
+1' anD '1'='1,malicious,1
+1	OR	0x31=0x31,malicious,1
+Queso Manchego,benign,0
+entrar,benign,0
+AdMiN' Or '2'='2'#,malicious,1
+registro,benign,0
+'	OR	'y'='y'	/*,malicious,1
+insertar,benign,0
+6074,benign,0
+"Alqueria De Coca 38, ",benign,0
+3,benign,0
+Llompart Delb�n,benign,0
+Vaciar carrito,benign,0
+Registrar,benign,0
+zazulak,benign,0
+off,benign,0
+'%20oR%20username%20LikE%20'%AdMIN%,malicious,1
+"' And subString(username,2-1,2-1)='a",malicious,1
+Queso Manchego,benign,0
+c48mari1e5a,benign,0
+1,benign,0
+1,benign,0
+AdMIn'--,malicious,1
+entrar,benign,0
+La Rioja,benign,0
+2,benign,0
+' OR 3>=3--,malicious,1
+90946866J,benign,0
+26,benign,0
+'	OR	'a'='a';--,malicious,1
+';	DrOP	taBle	uSerS--,malicious,1
+Navarra,benign,0
+Credenciales incorrectas,benign,0
+Frontado Victory,benign,0
+capers@innovaris.fr,benign,0
+"Hornillos S/N, ",benign,0
+' OR 3-2=1#,malicious,1
+1,benign,0
+Valdemoro,benign,0
+1' ORDER BY 5+5--,malicious,1
+Etreros 8 13A,benign,0
+Mois�s,benign,0
+Entrar,benign,0
+Soria,benign,0
+1' ORDEr bY 1--,malicious,1
+2,benign,0
+46470,benign,0
+lap,benign,0
+stevenson@sitienesunawebtienesunnegocio.bs,benign,0
+Entrar,benign,0
+"'%20uNIon%20seLEct%20NUlL,NuLL--",malicious,1
+31,benign,0
+52530900G,benign,0
+A�adir al carrito,benign,0
+harshad,benign,0
+olimpia,benign,0
+Indalecio,benign,0
+A�adir al carrito,benign,0
+Registrar,benign,0
+' HAVING (1)=(1)--,malicious,1
+entrar,benign,0
+45190,benign,0
+insertar,benign,0
+82,benign,0
+Registrar,benign,0
+Confirmar,benign,0
+"C/ Iglesia, S/N 11?F",benign,0
+Teruel,benign,0
+'	HAVING	1=1--,malicious,1
+Vino Rioja,benign,0
+47,benign,0
+dungan,benign,0
+1m1n7eb9rs8,benign,0
+"' unIoN SEleCt username,password FroM uSerS--",malicious,1
+29850288Z,benign,0
+Hortezuela de Oc�n,benign,0
+olav,benign,0
+Mallat Paiva,benign,0
+1'/**//**/anD/**/'1'='2,malicious,1
+0828132663978169,benign,0
+'	OR	'1'='1,malicious,1
+"'	unioN	selEcT	username,password	FROm	UsERS--",malicious,1
+Huelva,benign,0
+Registrar,benign,0
+mclendon,benign,0
+registro,benign,0
+Valencia,benign,0
+C/ Pereiras 149 ,benign,0
+1'	AND	'1'='1,malicious,1
+31383,benign,0
+Villapalacios,benign,0
+Ergasto,benign,0
+3,benign,0
+Registrar,benign,0
+1' oRDer By 2-1--,malicious,1
+�lava,benign,0
+16670,benign,0
+Palacios del Pan,benign,0
+Credenciales incorrectas,benign,0
+"Concordia, 102, ",benign,0
+Credenciales incorrectas,benign,0
+84,benign,0
+1' ORDER BY 0x1--,malicious,1
+Pasar por caja,benign,0
+Huelva,benign,0
+1' Order By 1--,malicious,1
+off,benign,0
+46726,benign,0
+"'%20AND%20SUBSTRING(username,1,1)='a",malicious,1
+a297ril83,benign,0
+insertar,benign,0
+"Botellas, 97 9A",benign,0
+Vaciar carrito,benign,0
+Ribadesella,benign,0
+'	OR	1=1#,malicious,1
+0518984611180264,benign,0
+'	OR	2-1=1#,malicious,1
+39,benign,0
+rahmani,benign,0
+Rosa,benign,0
+'%20UnIOn%20SElecT%20nULl--,malicious,1
+Segovia,benign,0
+on,benign,0
+"' /**/UNION SELECT NULL,NULL--",malicious,1
+5762011011583829,benign,0
+Credenciales incorrectas,benign,0
+"'%20Union%20SeLeCt%20username,password%20fROM%20uSerS--",malicious,1
+'/**/ OR '1'='1,malicious,1
+50371,benign,0
+"'/**//**/AnD/**/1=cONVeRT(int,/**/(SeLecT/**/@@version))--",malicious,1
+1,benign,0
+1894425536151221,benign,0
+Credenciales incorrectas,benign,0
+insertar,benign,0
+1' ORDER BY 2-1--,malicious,1
+Registrar,benign,0
+Mahonri,benign,0
+Le�n,benign,0
+1'	ORDER	BY	10--,malicious,1
+A�adir al carrito,benign,0
+de_anda,benign,0
+karina9,benign,0
+insertar,benign,0
+Queso Manchego,benign,0
+Granada,benign,0
+Berroteran,benign,0
+'; DROp tabLE UseRS--,malicious,1
+drake3,benign,0
+Villahermosa del R�o,benign,0
+insertar,benign,0
+Registrar,benign,0
+1529,benign,0
+1' AnD sLEeP(5) anD '1'='1,malicious,1
+1,benign,0
+Cadrete,benign,0
+688,benign,0
+"' aNd sUbsTRinG(username,1,1)='a",malicious,1
+4641290123831700,benign,0
+AdMin' oR 1=1--,malicious,1
+prepost1ra9i�n,benign,0
+' GROUP BY columnnames having 0x31=0x31--,malicious,1
+Registrar,benign,0
+Registrar,benign,0
+43364,benign,0
+Gonzalvo Gorriti,benign,0
+adMin'/**/Or/**/'1'='1'#,malicious,1
+Poma Bolet,benign,0
+Nao,benign,0
+And�a Matamalas,benign,0
+ulric,benign,0
+Vaciar carrito,benign,0
+"' unIoN sElECt username,password FrOm UserS--",malicious,1
+Almer�a,benign,0
+7699839843015936,benign,0
+1'	ANd	'1'='2,malicious,1
+Queso Manchego,benign,0
+61676468J,benign,0
+"'%20uNiOn%20SEleCt%20nUlL,NuLL--",malicious,1
+Devota,benign,0
+kamyar,benign,0
+adMiN' Or '2'='2'#,malicious,1
+eu6eo,benign,0
+Juan Cruz,benign,0
+stief.kenworthy@todomodelos.edu,benign,0
+insertar,benign,0
+off,benign,0
+Go�i,benign,0
+registro,benign,0
+Vino Rioja,benign,0
+Vaciar carrito,benign,0
+Entrar,benign,0
+' GROUP BY columnnames having 3>=3--,malicious,1
+Guadalcanal,benign,0
+%'/**/	Or	'1'='1,malicious,1
+6030066949262681,benign,0
+edlene,benign,0
+100,benign,0
+Jam�n Ib�rico,benign,0
+4a9a8g�8,benign,0
+Ourense,benign,0
+chiykows,benign,0
+1,benign,0
+7694435206249147,benign,0
+' GROUP BY columnnames having 3-2=1--,malicious,1
+0671271356251463,benign,0
+on,benign,0
+1' oRdEr By 1--,malicious,1
+"' uNION SeLECT username,password FROm UseRS--",malicious,1
+';%20DrOP%20TaBLe%20Users--,malicious,1
+Confirmar,benign,0
+'%20Or%20username%20liKE%20'%ADmIn%,malicious,1
+8169,benign,0
+"'%20union%20all%20select%20null,null,null--",malicious,1
+registro,benign,0
+Credenciales incorrectas,benign,0
+2,benign,0

